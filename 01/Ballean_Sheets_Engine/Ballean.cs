@@ -12,7 +12,6 @@ namespace Ballean_Sheets_Engine
 {
     public partial class Ballean : Form
     {
-        Ballean ballean = new Ballean();
         GridModifier choices = new GridModifier();
         GridModifier items = new GridModifier();
         GridModifier enemies = new GridModifier();
@@ -43,12 +42,6 @@ namespace Ballean_Sheets_Engine
             this.Hide();
         }
 
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void toolStripSplitButton1_ButtonClick(object sender, EventArgs e)
         {
 
@@ -59,10 +52,7 @@ namespace Ballean_Sheets_Engine
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
 
-        }
 
 
 

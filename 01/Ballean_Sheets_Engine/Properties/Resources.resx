@@ -118,14 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="BG_Normal_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>BG_Normal_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Items_Images_All2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Items_Images_All2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="BG_Night_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>BG_Night_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="BG_Noon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>BG_Noon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Logo_IG" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Logo_IG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Items_Images_Larvae" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Items_Images_Larvae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG_Normal_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>BG_Normal_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Logo_Ballean_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Logo_Ballean_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,7 +139,22 @@
   <data name="Logo_IG1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Logo_IG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="BG_Noon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>BG_Noon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Items_Images_Bug" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Items_Images_Bug.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Items_Images_All" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Items_Images_All.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG_Night_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>BG_Night_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Items_Images_All1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Items_Images_All1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Items_Images_Ant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Items_Images_Ant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Items_Images_All3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Items_Images_All3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
